@@ -30,5 +30,5 @@ genMoves <-
 	moves <- rbind(moves_x, moves_y); 
 	
 	#' output array
-	#moves
+	moves
 }
