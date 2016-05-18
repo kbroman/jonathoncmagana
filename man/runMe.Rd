@@ -1,14 +1,14 @@
-\name{runMe}
-\alias{runMe}
+\name{maganaProject}
+\alias{maganaProject}
 \title{JCM 861 Project}
 \description{BMI 861 Project}
-\usage{runMe()}
+\usage{maganaProject()}
 \arguments{}
-\alias{runMe}
+\alias{maganaProject}
 \value{plot of 2d motion}
 \examples{
 
-runMe()
+maganaProject()
 
 }
 
