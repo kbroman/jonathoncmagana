@@ -1,3 +1,2 @@
-export(maganaProject)
 export(genMoves)
 export(plotMoves)
