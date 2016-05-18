@@ -1,3 +1,0 @@
-export(runMe)
-export(genMoves)
-export(plotMoves)
