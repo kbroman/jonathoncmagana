@@ -1,7 +1,7 @@
 \name{genMoves}
 \alias{genMoves}
-\title{JCM 861 Project}
-\description{BMI 861 Project}
+\title{JCM 826 Project}
+\description{BMI 826 Project}
 \usage{genMoves(N = 1000, sigma = 0.1)}
 \arguments{
 	\item{N}{Number of points}

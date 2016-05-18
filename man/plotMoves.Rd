@@ -1,7 +1,7 @@
 \name{plotMoves}
 \alias{plotMoves}
-\title{JCM 861 Project}
-\description{BMI 861 Project}
+\title{JCM 826 Project}
+\description{BMI 826 Project}
 \usage{plotMoves(moves)}
 \arguments{
 	\item{moves}{2d array of moves}
