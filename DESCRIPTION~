@@ -1,8 +1,0 @@
-Package: maganaProject
-Version: 1.0
-Title: Jonathon Magana's BMI 861 Project
-Description: BMI 861 project
-Author Jonathon Magana <jcflynn@wisc.edu>
-Maintainer: Jonathon Magana <jcflynn@wisc.edu>
-License: GPL-3
-Built: R 3.2.3; ; 2016-05-17 15:55:00 UTC; linux
