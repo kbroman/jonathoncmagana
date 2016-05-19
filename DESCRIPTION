@@ -3,7 +3,7 @@ Version: 1.0
 Author: Jonathon Magana
 Maintainer: Jonathon Magana <jcflynn@wisc.edu>
 License: GPL-3
-Title: BMI 861 project
+Title: BMI 861 Project
 Description: BMI 826 project.
 Suggests:
     testthat, knitr
