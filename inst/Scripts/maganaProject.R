@@ -1,5 +1,4 @@
 #' script to run my functions
-source("R/genMoves.R");
-source("R/plotMoves.R");
+library(maganaProject)
 moves <- genMoves();
 plotMoves(moves);
