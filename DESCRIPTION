@@ -6,6 +6,7 @@ License: GPL-3
 Title: BMI 861 project
 Description: BMI 826 project.
 Suggests:
-    testthat
+    testthat, knitr
 URL: https://github.com/jonathoncmagana/project
 RoxygenNote: 5.0.1
+VignetteBuilder: knitr

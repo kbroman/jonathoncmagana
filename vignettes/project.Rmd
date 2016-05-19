@@ -1,0 +1,12 @@
+%\VignetteEngine{knitr::knitr}
+%\VignetteIndexEntry{project vignette}
+
+## Project
+
+Jonathon Magana
+
+Hello World Document
+
+```{r sessionInfo}
+sessionInfo()
+```
