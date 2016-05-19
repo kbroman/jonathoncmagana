@@ -17,11 +17,5 @@ simulate two-dimensional Brownian motion
 \examples{
 moves <- genMoves()
 plotMoves(moves)
-generate N values with mean of 0 and standard deviation of 1
-generate N values with mean of 0 and standard deviation of sigma^2
-added epsilon value to the first entry
-update moves vector to be moves[i-1]*epsilon[i]
-combine two vectors into array for output
-output array
 }
 
