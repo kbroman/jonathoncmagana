@@ -5,5 +5,7 @@ Maintainer: Jonathon Magana <jcflynn@wisc.edu>
 License: GPL-3
 Title: BMI 861 project
 Description: BMI 826 project.
-Suggests: testthat
+Suggests:
+    testthat
 URL: https://github.com/jonathoncmagana/project
+RoxygenNote: 5.0.1
