@@ -6,6 +6,7 @@ test_that("test out the project", {
   sigma <- 0.01
 
   moves <- genMoves(N, sigma)
-  expect_equal( 1000, length(moves))
+  expect_equal( 1000, ncol(moves))
+  expect_equal( 2, nrow(moves))
 
 })
