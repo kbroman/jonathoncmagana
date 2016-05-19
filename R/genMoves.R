@@ -37,8 +37,5 @@ genMoves <-
     }
 
     # combine two vectors into array for output
-    moves <- rbind(moves_x, moves_y);
-
-    # output array
-    moves
+    rbind(moves_x, moves_y);
 }
